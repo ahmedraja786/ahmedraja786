@@ -4,7 +4,7 @@
 
 Software developer focused on building responsive, modern and user-friendly web applications.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmad%20Raja-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-raja)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmad%20Raja-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-raja-930241317/)
 [![GitHub](https://img.shields.io/badge/GitHub-ahmedraja786-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedraja786)
 [![Email](https://img.shields.io/badge/Email-ahmedraja23012000%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedraja23012000@gmail.com)
 
@@ -105,7 +105,7 @@ I work at the intersection of:
 
 📧 **Email:** [ahmedraja23012000@gmail.com](mailto:ahmedraja23012000@gmail.com)
 
-💼 **LinkedIn:** [linkedin.com/in/ahmad-raja](https://www.linkedin.com/in/ahmad-raja)
+💼 **LinkedIn:** [linkedin.com/in/ahmad-raja-930241317](https://www.linkedin.com/in/ahmad-raja-930241317/)
 
 🐙 **GitHub:** [github.com/ahmedraja786](https://github.com/ahmedraja786)
 
